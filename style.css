@@ -1,0 +1,22 @@
+body{
+    font-family: 'Tangerine', cursive;
+    text-align:center;
+    background-color:RGB(53,53,53);
+    color:white;
+}
+header {
+    font-size: 100px
+}
+h3{
+    font-size:55px;
+}
+img{
+    max-height:200px;
+    border-radius: 13px;
+    margin:10px;
+    float:left
+}
+.watches_container{
+    float:left
+    
+}
